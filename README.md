@@ -10,8 +10,6 @@ Key features:
 - **Models**: Four classifiers—Decision Tree (DT), Random Forest (RF), Support Vector Machine (SVM), and Multi-Layer Perceptron (MLP)—evaluated with test accuracy and 5-fold cross-validation (CV).
 - **Results**: High accuracies due to the dataset's separability, with RF achieving perfect scores.
 
-This project is ideal for those new to physics + AI/ML, showing how ML can classify stellar types with near-perfect accuracy on structured data.
-
 ## Dataset Description
 
 The dataset is sourced from [Kaggle: Star Dataset](https://www.kaggle.com/datasets/deepu1109/star-dataset) and contains 240 rows (one per star) with 7 columns. It's a tabular CSV file (`6 class csv.csv`) representing synthetic or observed stellar properties, balanced with 40 samples per class.
